@@ -1,1 +1,3 @@
-# arti402_lab1_-2240003619-
+# arti402_lab1
+
+Introduction to neural networks, layers, weights, biases, and batch processing.
