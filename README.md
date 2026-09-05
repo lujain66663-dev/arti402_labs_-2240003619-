@@ -1,3 +1,3 @@
-# arti402_lab1
+# Deep Learning Labs
 
-Introduction to neural networks, layers, weights, biases, and batch processing.
+
